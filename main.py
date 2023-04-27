@@ -2,7 +2,7 @@
 # Title: RPG Map                                                               
 # Class: Computer Science 30                                                            
 # Date:  March 15, 2023                                                               
-# Coders Name: Abullah Hashmi                                                        
+# Coders Name: Abullah Hashmi                                                      
 # Version: 001   
 ##############################################################################
 '''This assignment is a code that constructs a map in which allows the
